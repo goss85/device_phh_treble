@@ -1,2 +1,2 @@
 WITH_GMS := true
-# $(call inherit-product, vendor/partner_gms/products/gms.mk)
+$(call inherit-product, vendor/partner_gms/products/gms.mk)
